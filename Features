@@ -1,0 +1,11 @@
+## Features
+
+- CSV & manual input support
+- Multi-signal fraud detection
+- Risk scoring engine
+- Explainable decisions
+- Blocklist generation
+- ads.txt validation
+- Redirect chain detection
+- Domain/IP validation
+- Modular architecture
