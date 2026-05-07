@@ -55,24 +55,6 @@ See `/docs/architecture.md`
 
 ---
 
-ivt-showcase/
-│
-├── docs/
-│ ├── architecture.md
-│
-├── samples/
-│ ├── input.csv
-│ ├── output.csv
-│
-├── src/
-│ ├── demo/
-│ │ ├── validator.js
-│ │ ├── checker.js
-│ │ ├── scorer.js
-│
-├── README.md
-
-
 
 ---
 
