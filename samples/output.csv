@@ -1,0 +1,5 @@
+value,type,score,decision,reasons
+hdhub4u.fo,domain,92,BLOCK,"keyword+redirect+missing_ads"
+example.com,domain,10,ALLOW,"clean"
+google.com,domain,5,ALLOW,"trusted"
+192.168.1.1,ip,60,MONITOR,"private_ip"
